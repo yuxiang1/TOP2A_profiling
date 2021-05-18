@@ -1,0 +1,8 @@
+Intergenic	57129
+intron 	38092
+exon 	1088
+TTS 	991
+promoter-TSS 	1104
+3' UTR 	711
+non-coding 	369
+5' UTR 	93
